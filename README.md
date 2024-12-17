@@ -1,2 +1,2 @@
-# ESP32_Projects
-ESP32 A2DP sink BT reciver to I2S PCM5102
+# ESP32_A2DP_sink_to_I2S_PCM5102A_BT_reciver
+
