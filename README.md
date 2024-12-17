@@ -5,3 +5,5 @@ This code is for the ESP32, programmed in the Arduino environment (version 1.8.1
 The program is designed to leverage the ESP32's Bluetooth A2DP capabilities and the Arduino I2S drivers for audio data processing.
 
 Problem: When device gets disconnected I2S plays last buffer of data it recived continiously.
+
+Solution: ESP32_A2DP_sink_BT_reciver_with_working_disconnect (checking in while, sorry but no interupts here)
